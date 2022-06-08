@@ -1,0 +1,13 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "result".(‰ßÎ¨ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üœ‰ü
+F
+java:S1481"+Remove this unused "result" local variable.(‰ßÎ¨ûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(·å½
+S	java:S106."9Replace this use of System.out or System.err by a logger.(„•Îıÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'com.zemoso.aop.Account'.(µçÖ€ıÿÿÿÿ
+F
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

@@ -1,0 +1,10 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "code".(ÏÛê¢ùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "name".(½Ø¥àùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+D
+java:S1481")Remove this unused "name" local variable.(½Ø¥àùÿÿÿÿ
+D
+java:S1481")Remove this unused "code" local variable.(ÏÛê¢ùÿÿÿÿ

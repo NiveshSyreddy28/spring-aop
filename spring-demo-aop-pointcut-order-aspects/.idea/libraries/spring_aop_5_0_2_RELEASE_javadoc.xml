@@ -1,0 +1,82 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.0.2.RELEASE-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-core-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aspects-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aop-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-expression-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jms-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jcl-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-messaging-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-orm-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-oxm-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-test-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-tx-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webmvc-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-beans-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-websocket-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-support-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jdbc-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webflux-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-web-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-indexer-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-instrument-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/jar_files/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjweaver-1.8.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aop-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-test-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-support-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-orm-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jdbc-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-beans-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jcl-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-websocket-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-messaging-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-tx-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-oxm-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aspects-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-web-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webflux-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webmvc-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-instrument-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-core-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-expression-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-indexer-5.0.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jms-5.0.2.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-web-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-web-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-indexer-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webmvc-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-expression-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webflux-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-webflux-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-messaging-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-core-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-core-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jms-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-oxm-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-support-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-orm-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aop-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-instrument-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-websocket-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-aspects-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-context-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-beans-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-beans-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jcl-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-test-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-test-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-tx-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jdbc-5.0.2.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Spring/spring-framework-5.0.2.RELEASE-dist/spring-jdbc-5.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

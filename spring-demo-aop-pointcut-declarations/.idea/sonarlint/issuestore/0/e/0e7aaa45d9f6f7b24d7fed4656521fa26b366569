@@ -1,0 +1,5 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(‡ÃÆûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×¤óãûÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ
